@@ -1,6 +1,9 @@
 ## Dashboard
 ![](3.jpg)
 
+## Report Panel
+![](Group 1.png)
+
 # Project Name: Complaint Portal
 
 ## Project Purpose:
