@@ -2,7 +2,7 @@
 ![](3.jpg)
 
 ## Report Panel
-![](Group 1.png)
+![](group1.png)
 
 # Project Name: Complaint Portal
 
