@@ -1,5 +1,5 @@
 ## Dashboard
-![](3.jpg)
+![](https://drive.google.com/file/d/1KEQy6IALLY2Gm5F8dIUg-RTAmxUDJucm/view?usp=sharing)
 
 ## Report Panel
 ![](group1.png)
